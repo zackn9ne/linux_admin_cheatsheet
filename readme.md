@@ -15,4 +15,5 @@ timedatectl
 ### server related
 ```
 apachect -S #check apache conf
+IncludeOptional sites-enabled/*.conf  #add this to your conf file to do /sites-available /sites-enabled schema
 ```
