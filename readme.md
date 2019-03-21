@@ -6,4 +6,6 @@ netstat -TulPn #network
 nmtui #activate connection or
 nmcli c s
 nmcli c up en0
+
+gpasswd -a escallateduser wheel
 ```
