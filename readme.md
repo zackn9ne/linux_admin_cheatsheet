@@ -11,3 +11,8 @@ gpasswd -a escallateduser wheel
 
 timedatectl
 ```
+
+### server related
+```
+apachect -S #check apache conf
+```
