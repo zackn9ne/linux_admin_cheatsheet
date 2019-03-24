@@ -12,6 +12,15 @@ gpasswd -a escallateduser wheel
 timedatectl
 ```
 
+### usb
+```
+lsusb
+dmesg
+mount
+umount
+lsof
+```
+
 ### server related
 ```
 apachect -S #check apache conf
