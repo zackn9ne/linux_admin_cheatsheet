@@ -16,7 +16,7 @@ timedatectl
 ```
 lsusb
 dmesg
-fdisk -l #best choice
+fdisk -l #best choice shows filesystem type
 mount
 umount
 lsof
