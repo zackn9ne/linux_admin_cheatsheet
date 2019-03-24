@@ -16,6 +16,7 @@ timedatectl
 ```
 lsusb
 dmesg
+fdisk -l #best choice
 mount
 umount
 lsof
