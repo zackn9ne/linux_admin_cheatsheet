@@ -12,6 +12,10 @@ gpasswd -a escallateduser wheel
 
 timedatectl
 ```
+### run command as another user
+```
+sudo -u anotherperson -i pwd
+```
 
 ### usb
 ```
