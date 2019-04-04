@@ -1,3 +1,9 @@
+### ssh
+```
+ssh-add
+eval $(ssh-agent -s) #if not running
+```
+
 ### common commands
 ```
 w # show logged in
