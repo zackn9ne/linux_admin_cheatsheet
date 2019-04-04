@@ -25,6 +25,7 @@ sudo -u anotherperson -i pwd
 
 ### usb
 ```
+lsblk #pretty good will show cdroms too
 lsusb
 dmesg
 fdisk -l #best choice shows filesystem type
