@@ -4,6 +4,11 @@ ssh-add
 eval $(ssh-agent -s) #if not running
 ```
 
+### docker
+```
+docker run -it --entrypoint /bin/sh #for those containers that lack bash
+```
+
 ### common commands
 ```
 w # show logged in
