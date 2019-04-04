@@ -9,6 +9,11 @@ eval $(ssh-agent -s) #if not running
 docker run -it --entrypoint /bin/sh #for those containers that lack bash
 ```
 
+### apache
+```
+rpm -qc httpd #qc all the log files locations
+```
+
 ### common commands
 ```
 w # show logged in
